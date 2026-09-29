@@ -1,0 +1,3 @@
+# Aurora AutoML's single runtime dependency. Select the appropriate PyTorch wheel
+# for your CPU, CUDA, or Apple Silicon platform at https://pytorch.org/get-started/.
+torch>=2.1
